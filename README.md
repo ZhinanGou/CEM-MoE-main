@@ -7,7 +7,7 @@ This repository contains the official PyTorch implementation of the paper: **Emp
 
 
 ## 📝 Abstract
-In multi-turn empathetic dialogue generation, achieving precise emotion perception under limited computational resources remains a significant challenge. To address this, we propose **CEM-MoE**, a resource-efficient model featuring a **Dual-Stream Sparse Mixture-of-Experts (MoE)** Emotion Decoder and a **Semantic Density-based Adaptive Soft Emotion Fusion** mechanism. The decoder enhances mixed emotion decoupling via expert specialization, while the fusion mechanism resolves emotional inconsistency by dynamically weighting historical and current cues. Experiments on the *EmpatheticDialogues* dataset demonstrate that CEM-MoE significantly outperforms existing baselines, achieving high performance using only consumer-grade GPUs.
+In multi-turn empathetic dialogue generation, achieving precise emotion perception under limited computational resources remains a significant challenge. To address this, we propose **CEM-MoE**, a resource-efficient model featuring a **Dual-Stream Sparse Mixture-of-Experts (MoE)** Emotion Decoder and a **Semantic Density-based Adaptive Soft Emotion Fusion** mechanism. The decoder enhances mixed emotion decoupling via expert specialization, while the fusion mechanism resolves emotional inconsistency by dynamically weighting historical and current cues. Experiments on the *Empathetic Dialogues* dataset demonstrate that CEM-MoE significantly outperforms existing baselines, achieving high performance using only consumer-grade GPUs.
 
 ## 🚀 Main Contributions
 - **Dual-Stream Sparse MoE Decoder**: Breaks through the emotional representation bottleneck of lightweight models.
