@@ -47,7 +47,7 @@ If you find this code or our paper useful for your research, please cite:
 ```bibtex
 @article{CEM-MoE-2026,
   title={Empathetic dialogue generation via dual-stream sparse MoE and semantic density-aware fusion},
-  author={Hu, Guoliang and Liu, He and Wang, Yufan},
+  author={Gou, Zhinan and Liu, He and Wang, Yufan},
   journal={Int. J. [Journal Name]},
   volume={X},
   number={Y},
